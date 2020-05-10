@@ -38,3 +38,26 @@ be using.
 ```bash
 $ npm install express --save
 ```
+
+### Jest
+> Jest is a delightful JavaScript Testing Framework with a focus on simplicity
+
+My word, when it comes to quotes there are few that match this one.
+
+_[...] Delightful JavaScript Testing Framework [...]_
+
+Savour each word as you read them. This bold claim kind of makes you want to put
+them to the test.
+
+When I first read that [Jest](https://jestjs.io/) was developed by
+[Facebook](https://www.facebook.com/) I was cautious. In the past I have
+developed games that were played on said platform. That was a weight that was
+holding me back from using `Jest`.
+
+I was so wrong. It is easy, it works out of the box and it gives you great bang
+for the buck. These reasons make it one of the best Plug and Play libraries I
+have ever found.
+
+```bash
+$ npm install --save-dev jest
+```
